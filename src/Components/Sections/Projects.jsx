@@ -52,25 +52,25 @@ const designsData = [
   
   {
     id: 'branding-1',
-    src: './assets/Branding1.png',
+    src: '/image2/full/Branding_1.jpg',
     alt: 'Branding Design 1',
     category: 'branding'
   },
   {
     id: 'branding-2',
-    src: './assets/brand2.png',
+    src: '/image2/full/Branding_2.jpg',
     alt: 'Branding Design 2',
     category: 'branding'
   },
   {
     id: 'branding-3',
-    src: '/images/Branding 3.png',
+    src: '/image2/full/Branding_4.jpg',
     alt: 'Branding Design 3',
     category: 'branding'
   },
   {
     id: 'branding-4',
-    src: '/images/Branding 4.png',
+    src: '/image2/full/Branding_2(1).jpg',
     alt: 'Branding Design 4',
     category: 'branding'
   },
@@ -78,37 +78,37 @@ const designsData = [
   // Event Projects
   {
     id: 'event-1',
-    src: '/images/Event 1.png',
+    src: '/image2/full/Event_1.jpg',
     alt: 'Event Design 1',
     category: 'event'
   },
   {
     id: 'event-2',
-    src: '/images/Event 2.png',
+    src: '/image2/full/Event_2.jpg',
     alt: 'Event Design 2',
     category: 'event'
   },
   {
     id: 'event-3',
-    src: '/images/Event 3.png',
+    src: '/image2/full/Event_3.jpg',
     alt: 'Event Design 3',
     category: 'event'
   },
   {
     id: 'event-4',
-    src: '/images/Event 4.png',
+    src: '/image2/full/Event_4.jpg',
     alt: 'Event Design 4',
     category: 'event'
   },
   {
     id: 'event-5',
-    src: '/images/Event 5.png',
+    src: '/image2/full/Event_5.jpg',
     alt: 'Event Design 5',
     category: 'event'
   },
   {
     id: 'event-6',
-    src: '/images/Event 6.png',
+    src: '/image2/full/Event_6.jpg',
     alt: 'Event Design 6',
     category: 'event'
   },
@@ -116,67 +116,67 @@ const designsData = [
   // Food & Restaurant Projects
   {
     id: 'food-1',
-    src: '/images/Food & Restaurant 1.png',
+    src: '/image2/full/Restaurant_1(1).jpg',
     alt: 'Food & Restaurant Design 1',
     category: 'food'
   },
   {
     id: 'food-2',
-    src: '/images/Food & Restaurant 2.png',
+    src: '/image2/full/Restaurant_2.jpg',
     alt: 'Food & Restaurant Design 2',
     category: 'food'
   },
   {
     id: 'food-3',
-    src: '/images/Food & Restaurant 3.png',
+    src: '/image2/full/Restaurant_3.jpg',
     alt: 'Food & Restaurant Design 3',
     category: 'food'
   },
   {
     id: 'food-4',
-    src: '/images/Food & Restaurant 4.png',
+    src: '/image2/full/Restaurant_4.jpg',
     alt: 'Food & Restaurant Design 4',
     category: 'food'
   },
   {
     id: 'food-5',
-    src: '/images/Food & Restaurant 5.png',
+    src: '/image2/full/Restaurant_5.jpg',
     alt: 'Food & Restaurant Design 5',
     category: 'food'
   },
   {
     id: 'food-6',
-    src: '/images/Food & Restaurant 6.png',
+    src: '/image2/full/Restaurant_6.jpg',
     alt: 'Food & Restaurant Design 6',
     category: 'food'
   },
   {
     id: 'food-8',
-    src: '/images/Food & Restaurant 8.png',
+    src: '/image2/full/Restaurant_8.jpg',
     alt: 'Food & Restaurant Design 8',
     category: 'food'
   },
   {
     id: 'food-9',
-    src: '/images/Food & Restaurant 9.png',
+    src: '/image2/full/Restaurant_9.jpg',
     alt: 'Food & Restaurant Design 9',
     category: 'food'
   },
   {
     id: 'food-10',
-    src: '/images/Food & Restaurant 10.png',
+    src: '/image2/full/Restaurant_10.jpg',
     alt: 'Food & Restaurant Design 10',
     category: 'food'
   },
   {
     id: 'food-11',
-    src: '/images/Food & Restaurant 11.png',
+    src: '/image2/full/Restaurant_11.jpg',
     alt: 'Food & Restaurant Design 11',
     category: 'food'
   },
   {
     id: 'food-12',
-    src: '/images/Food & Restaurant 12.png',
+    src: '/image2/full/Restaurant_12.jpg',
     alt: 'Food & Restaurant Design 12',
     category: 'food'
   },
@@ -184,31 +184,31 @@ const designsData = [
   // Logistics Projects
   {
     id: 'logistics-1',
-    src: '/images/Logistics 1.jpg',
+    src: '/image2/full/Logistics_1.jpg',
     alt: 'Logistics Design 1',
     category: 'logistics'
   },
   {
     id: 'logistics-2',
-    src: '/images/Logistics 2.png',
+    src: '/image2/full/Logistics_2.jpg',
     alt: 'Logistics Design 2',
     category: 'logistics'
   },
   {
     id: 'logistics-3',
-    src: '/images/Logistics 3.png',
+    src: '/image2/full/Logistics_3.jpg',
     alt: 'Logistics Design 3',
     category: 'logistics'
   },
   {
     id: 'logistics-4',
-    src: '/images/Logistics 4.png',
+    src: '/image2/full/Logistics_4.jpg',
     alt: 'Logistics Design 4',
     category: 'logistics'
   },
   {
     id: 'logistics-5',
-    src: '/images/Logistics 5.png',
+    src: '/image2/full/Logistics_5.jpg',
     alt: 'Logistics Design 5',
     category: 'logistics'
   },
@@ -216,43 +216,43 @@ const designsData = [
   // Real Estate Projects
   {
     id: 'realestate-1',
-    src: '/images/Real Estate 1.png',
+    src: '/image2/full/Estate_1.jpg',
     alt: 'Real Estate Design 1',
     category: 'realestate'
   },
   {
     id: 'realestate-2',
-    src: '/images/Real Estate 2.png',
+    src: '/image2/full/Estate_2.jpg',
     alt: 'Real Estate Design 2',
     category: 'realestate'
   },
   {
     id: 'realestate-2b',
-    src: '/images/Real Estate 2B.png',
+    src: '/image2/full/Estate_2B.jpg',
     alt: 'Real Estate Design 2B',
     category: 'realestate'
   },
   {
     id: 'realestate-3',
-    src: '/images/Real Estate 3.png',
+    src: '/image2/full/Estate_3.jpg',
     alt: 'Real Estate Design 3',
     category: 'realestate'
   },
   {
     id: 'realestate-4',
-    src: '/images/Real Estate 4.png',
+    src: '/image2/full/Estate_4.jpg',
     alt: 'Real Estate Design 4',
     category: 'realestate'
   },
   {
     id: 'realestate-5',
-    src: '/images/Real Estate 5.png',
+    src: '/image2/full/Estate_5.jpg',
     alt: 'Real Estate Design 5',
     category: 'realestate'
   },
   {
     id: 'realestate-6',
-    src: '/images/Real Estate 6.png',
+    src: '/image2/full/Estate_6.jpg',
     alt: 'Real Estate Design 6',
     category: 'realestate'
   },
@@ -260,19 +260,19 @@ const designsData = [
   // Travel Projects
   {
     id: 'travel-1',
-    src: '/images/Travels 1.png',
+    src: '/image2/full/Travels_1.jpg',
     alt: 'Travel Design 1',
     category: 'travel'
   },
   {
     id: 'travel-2',
-    src: '/images/Travels 2.png',
+    src: '/image2/full/Travels_2.jpg',
     alt: 'Travel Design 2',
     category: 'travel'
   },
   {
     id: 'travel-3',
-    src: '/images/Travels 3.png',
+    src: '/image2/full/Travels_3.jpg',
     alt: 'Travel Design 3',
     category: 'travel'
   }
